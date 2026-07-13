@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1783967530885" clover="3.2.0">
+  <project timestamp="1783967530886" name="All files">
+    <metrics statements="29" coveredstatements="24" conditionals="6" coveredconditionals="0" methods="4" coveredmethods="3" elements="39" coveredelements="27" complexity="0" loc="29" ncloc="29" packages="3" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="18" coveredstatements="14" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="app.js" path="/Users/pedroperezitu/Documents/projects/prueba-tecnica-bci/prueba-tecnica-bci-express/src/app.js">
+        <metrics statements="18" coveredstatements="14" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="140" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="141" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="151" count="1" type="stmt"/>
+        <line num="152" count="1" type="stmt"/>
+        <line num="158" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.controllers">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="elementsController.js" path="/Users/pedroperezitu/Documents/projects/prueba-tecnica-bci/prueba-tecnica-bci-express/src/controllers/elementsController.js">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="220" count="2" type="stmt"/>
+        <line num="221" count="20" type="stmt"/>
+        <line num="222" count="20" type="stmt"/>
+        <line num="228" count="0" type="stmt"/>
+        <line num="235" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.routes">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="elements.js" path="/Users/pedroperezitu/Documents/projects/prueba-tecnica-bci/prueba-tecnica-bci-express/src/routes/elements.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
